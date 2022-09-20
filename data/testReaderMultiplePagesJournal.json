@@ -1,0 +1,20 @@
+{"pages": [
+  {
+    "notes": ["january"],
+    "month": 1,
+    "mood": "meh",
+    "day": 1
+  },
+  {
+    "notes": ["february"],
+    "month": 2,
+    "mood": "",
+    "day": 2
+  },
+  {
+    "notes": [],
+    "month": 3,
+    "mood": "good",
+    "day": 3
+  }
+]}
